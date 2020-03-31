@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'up_tech@sina.com' => 'zhuxuezhen@offcn.com' }
-  s.source           = { :git => 'git@github.com:iYeso/WXPublicTools.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/iYeso/WXPublicTools.git', :tag => s.version }
 
   s.ios.deployment_target = '9.0'
 
