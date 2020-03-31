@@ -17,11 +17,11 @@ Pod::Spec.new do |s|
   WXPublicTools 分类的详细说明和使用
                        DESC
 
-  s.homepage         = 'https://github.com/up_tech@sina.com/WXPublicTools'
+  s.homepage         = 'https://github.com/iYeso/WXPublicTools'
 
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'up_tech@sina.com' => 'zhuxuezhen@offcn.com' }
-  s.source           = { :git => 'https://github.com/up_tech@sina.com/WXPublicTools.git', :tag => s.version.to_s }
+  s.source           = { :git => 'git@github.com:iYeso/WXPublicTools.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '9.0'
 
