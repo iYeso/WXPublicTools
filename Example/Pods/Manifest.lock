@@ -1,0 +1,16 @@
+PODS:
+  - WXPublicTools (0.1.0)
+
+DEPENDENCIES:
+  - WXPublicTools (from `../`)
+
+EXTERNAL SOURCES:
+  WXPublicTools:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WXPublicTools: efd0cfb057eaeef0c5ef04cb5dce92651309fcfc
+
+PODFILE CHECKSUM: 990dfa7631599fa2561ad851ec273ec348f6b6cd
+
+COCOAPODS: 1.7.2

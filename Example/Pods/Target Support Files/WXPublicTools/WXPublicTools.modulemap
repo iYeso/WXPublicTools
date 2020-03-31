@@ -1,0 +1,6 @@
+framework module WXPublicTools {
+  umbrella header "WXPublicTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
