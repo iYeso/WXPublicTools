@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "UIView+WXFrame.h"
 
 FOUNDATION_EXPORT double WXPublicToolsVersionNumber;
 FOUNDATION_EXPORT const unsigned char WXPublicToolsVersionString[];
